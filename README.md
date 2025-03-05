@@ -1,6 +1,11 @@
 # Library-Api
 
 ### Installation
+
+
+# On LINUX and KaliLINUX
+
+
 `sudo apt update&&upgrade`
 
 `pip install python`
@@ -33,12 +38,7 @@ python manage.py runserver
 
 `http://127.0.0.1:8000/`
 
-````
-## Requirements
 
-- Python >= 2.0
-- Django >= 2.5
-````
 
 `you can test APIs with given endpoints`
 
@@ -58,3 +58,11 @@ http://127.0.0.1:8000/api/copies
 http://127.0.0.1:8000/api/lendings
 ```
 
+
+
+````
+## Requirements
+
+- Python >= 2.0
+- Django >= 2.5
+````
